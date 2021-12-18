@@ -126,6 +126,7 @@ Bir çok sensörün kullanıldığı Arduino projeleri yer almaktadır.
 57-ArduinoNano
 
 ##Kaynaklar
+
 https://maker.robotistan.com/kategori/arduino/arduino-projeleri/
 
 http://www.kodlakafa.com/kategori/arduino/
@@ -135,5 +136,3 @@ http://arduinoturkiye.com/
 https://hayaletveyap.com/
 
 http://www.ornekyazilim.com/
-
-![image](https://user-images.githubusercontent.com/96083814/146650192-2c15c86c-a136-4914-b180-20cbe1a33f95.png)
